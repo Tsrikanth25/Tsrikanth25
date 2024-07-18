@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Tsrikanth25
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, and Data Science.
+- 🌱 I’m currently learning Full Stack Development and deepening my knowledge in AI/ML.
+- 💞️ I’m looking to collaborate on exciting AI/ML projects and open-source contributions.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/srikanth-thummalapudi-60b980225/) or [Email](mailt:srikanthmay25@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving complex problems and am passionate about learning new technologies.
